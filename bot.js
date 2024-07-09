@@ -40,7 +40,7 @@ bot.hashtag('developer',(ctx) => [
 ]);
 
 bot.on('text',ctx =>{
-    ctx.reply('Texto davir te 💬 – Ok');
+    ctx.reply('Texto 💬 – Ok');
 });
 
 bot.on('sticker',ctx =>{
